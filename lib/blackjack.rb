@@ -71,6 +71,5 @@ def runner
   # if their card exceeds 21, the game ends
 end_game(total)
 end
- 
-end
+
     
